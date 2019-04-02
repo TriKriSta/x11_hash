@@ -1,4 +1,4 @@
-AC_INIT([x11hash], [1.4.1], [zebra.lucky@gmail.com])
+AC_INIT([x11hash], [1.4.1])
 AC_CONFIG_MACRO_DIRS([m4])
 AC_CONFIG_FILES([Makefile])
 AC_PROG_CC
